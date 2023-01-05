@@ -1,0 +1,62 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+section {
+    height: 500px;
+    background-color: white;
+    border: solid black 1px;
+}
+
+.hero {
+    background-color: #030F15;
+    height: 100vh;
+    color: white;
+    font-size: 40px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    width: 500px;
+    justify-content: space-around;
+    font-size: 35px;
+}
+
+li {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 80px;
+    margin: 0;
+}
+ 
+p {
+    margin: 0;
+    font-weight: 500;
+}
+
+.hero-text {
+    margin-left: 100px;
+
+}
+
+.button {
+    width: 200px;
+    height: 60px;
+    border-radius: 35px;
+    background-color: #23CCD7;
+    text-align: center;
+}
+
+
+footer {
+    height: 500px;
+    background-color: #044156;
+}
