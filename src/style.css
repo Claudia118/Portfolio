@@ -47,7 +47,7 @@ p {
 }
 
 .subtext {
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 300;
 }
 
@@ -202,7 +202,7 @@ display: none;
 
     nav {
         display: flex;
-        background-color: #5585b5;
+        background-color: #5598b5;
         flex-direction: column-reverse;
     }
 
